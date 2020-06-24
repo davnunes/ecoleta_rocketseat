@@ -1,2 +1,2 @@
-# ecoleta_rocketseat
+# Ecoleta
 An application web to find collection points
